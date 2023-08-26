@@ -1,4 +1,4 @@
-#SKID = BAD
+SKID = BAD
 Basic username gen for accounts also you can customise your self.
 if you missing a module do pip install (module)
 Need more help hmu on discord toy.01
